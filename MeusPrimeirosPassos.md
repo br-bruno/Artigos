@@ -2,7 +2,7 @@
 # Meus Primeiros Passos
 
 Eduardo, antes de entrar nesse mundo da programação, trabalhava de motorista de ônibus.
-Um dos critérios q a empresa de ônibus lhe pedia, era que carregasse no final do expediente no mínimo 200 passageiros pagantes,
+Um dos critérios que a empresa de ônibus lhe pedia, era que carregasse no final do expediente no mínimo 200 passageiros pagantes,
 sem contar os passageiros com gratuidades.
 Estudando programação em **C#**, percebeu que podia criar um sistema para ajudar a saber quantos
 pagantes estava carregando.
