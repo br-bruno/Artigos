@@ -1,0 +1,28 @@
+apresentação: fala ai família td bem? meu nome é bruno,
+antes de eu entrar nesse mundo da programação eu era motorista
+de onibus.
+
+
+problema: Um dos critérios q a empresa de onibus nos pedia era 
+q carregassemos no final do espediente 200 passageiros pagantes
+sem contar os passageiros com gratuidades.estudando programação 
+percebi q podia criar um sistema para ajudar a saber quantos
+pagantes estava carregando.
+
+partindo disso sabemos q 
+e em c# existe um recurso q usamos para 
+guardar valores..qual é esse recurso? 
+se chama variavel entao vamos criar aqui uma variavel para 
+idadePagante mas em c# temos q declarar qual o 
+tipo dessa variavel, se ela é do tipo string, inteira , decimal...
+entao colocaremos q o tipo dessa variavel é do tipo int de integer 
+do portugues inteiro int idadePassageiro e sabemos tbm q a idade minima para 
+ter gratuidade é de 60 anos entao colocaremos q o valor dessa variavel é 
+int idadePassageiro = 30 bom ja criamos a nossa primeira variavel do nosso 
+sistema
+
+
+
+
+a idadeGratuidade = 60,
+ 

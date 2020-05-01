@@ -1,0 +1,18 @@
+show ja temos uma varivel q indica uma idade do passageiro
+q esta entrando no onibus..so q qual condiçao temos pra q
+possamos saber se o passageiro é pagante ou gratuidade a condiçao
+é q codigo: se idadePagante < 60 ele terá q pagar a passagem...existe 
+um meio em c# q nos possibilita implementar uma condiçao para saber 
+se o passageiro é pagante ou gratuidade q se chama IF...entao se ou seja 
+if idadePagante < 60 ele retornará true e o passageiro terá q pagar 
+a passagem,mas pera la, como q o passageiro vai saber se ele é pagante se a condiçao 
+não lhe retorna nenhuma msg...pensando nisso em c# existe outro meio q nos 
+possibilita imprimir uma msg para o usuário...alguem sabe qual é?
+esse recurso q estou falando é o Console.WriteLine..ele nos possibilita enviar
+a msg ao usuário de q o passageiro terá que pagar a passagem...lembrando q essa msg
+tem q ficar entre "" e ()..olhando o nosso codigo
+eu vi q podemos aprimora-lo, e para ajudar iremos criar uma outra variavel para 
+essa idadeGratuidade q sera tbm do tipo int entao int idadeGratuidade = 60...
+podemos agora substituir esse 60 pela a variavel q criamos..
+if idadePagante < idadeGratuidade rodando o nosso código veremos se o passageiro é
+pagante ou gratuidade.
